@@ -8,7 +8,7 @@ width:100%;
 .travel_mainDiv h5, travel_mainDiv p{
 margin-left:20px;
 }
-.row:: after{
+.row:: aborder radfter{
 content:"";
 clear:both;
 display:table;
@@ -28,4 +28,11 @@ navbar-inverse {
     z-index: 99999;
     position: sticky;
     height: 0;
+}
+
+body {
+    text-align: center;
+    background-color: aqua;
+ font-disp
+    lay: block;
 }
